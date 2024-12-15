@@ -95,14 +95,14 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://i.ibb.co/6nzKR1v/image.jpg",
+            "https://i.ibb.co/hRPb2sK/2.jpg",
+            "https://i.ibb.co/mq00yn4/1.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://www.youtube.com/watch?v=nf3HquKEY6Y",
+            "https://www.youtube.com/watch?v=-aBE0TLcqTQ",
+            "https://www.youtube.com/watch?v=h-zuu6JP5vk"
         ],
         'texts': [
             "Label 2 관련 첫 번째 텍스트 내용입니다.",
